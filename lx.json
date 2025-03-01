@@ -1,1 +1,17 @@
-lxmnanga.art
+{
+  "metadata": {
+    "author": "vude29",
+    "description": "🧐"
+  },
+  "data": [
+    {
+      "name": "147xs",
+      "author": "vude29",
+      "path": "https://raw.githubusercontent.com/Moleys/vbook-ext/main/147xs/plugin.zip",
+      "version": 1,
+      "source": "https://www.lxmanga.art",
+      "icon": "https://raw.githubusercontent.com/Moleys/vbook-ext/main/147xs/icon.png",
+      "description": "Đọc truyện trên trang https://www.lxmanga.art",
+      "type": "hentai",
+      "locale": "18+"
+    }}
