@@ -15,17 +15,5 @@
         "tag": "nsfw",
         "type": "comic",
         "locale": "vi_VN"
-        },
-  {
-      "name": "HentaiVN",
-      "author": "vude29",
-      "path": "https://raw.githubusercontent.com/vude29/vbook/main/hentaivn/plugin.zip",
-      "version": 28,
-      "type": "comic",
-      "locale": "vi_VN",
-      "source": "https://hentaihvnx.com",
-      "icon": "https://raw.githubusercontent.com/vude29/vbook/main/hentaivn/icon1.png",
-      "description": "Đọc truyện trên trang HentaiVN",
-      "tag": "nsfw"
     }]
 }
