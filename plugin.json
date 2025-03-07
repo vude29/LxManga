@@ -15,17 +15,5 @@
         "tag": "nsfw",
         "type": "comic",
         "locale": "vi_VN"
-    },
-    {
-        "name": "Say Hentai",
-        "author": "Nhocconsr",
-        "path": "https://raw.githubusercontent.com/vude29/vbook/main/sayhentai/plugin.zip",
-        "version": 9,
-        "source": "https://sayhentai.ink",
-        "icon": "https://raw.githubusercontent.com/vude29/vbook/main/sayhentai/icon.png",
-        "description": "Đọc truyện trên trang Sayhentai.ink",
-        "type": "comic",
-        "locale": "vi_VN",
-        "tag": "nsfw",
     }]
 }
