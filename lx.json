@@ -7,10 +7,10 @@
     {
         "name": "LxManga",
         "author": "Vude29",
-        "path": "https://raw.githubusercontent.com/vude29/LxManga/plugin.zip",
+        "path": "https://raw.githubusercontent.com/vude29/LxManga/main/plugin.zip",
         "version": 13,
         "source": "https://lxmanga.art",
-        "icon": "https://raw.githubusercontent.com/vude29/LxManga/icon.png",
+        "icon": "https://raw.githubusercontent.com/vude29/LxManga/main/icon.png",
         "description": "Đọc truyện trên trang LxManga",
         "tag": "nsfw",
         "type": "comic",
