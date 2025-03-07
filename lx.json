@@ -1,18 +1,22 @@
-
+{
   "metadata": {
+    "name": "LxManga",
     "author": "Vude29",
-    "description": "Thích là nhích ^^!"
+    "version": 13,
+    "source": "https://lxmanga.art",
+    "regexp": "(www.)?(lxmanga|lxhentai).*?/truyen/.*",
+    "description": "Đọc truyện trên trang lxmanga.art",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "type": "comic",
+    "tag" : "nsfw"
   },
-  "data": [
-    {
-        "name": "LxManga",
-        "author": "Vude29",
-        "path": "https://raw.githubusercontent.com/vude29/LxManga/main/plugin.zip",
-        "version": 13,
-        "source": "https://lxmanga.art",
-        "icon": "https://raw.githubusercontent.com/vude29/LxManga/main/icon.png",
-        "description": "Đọc truyện trên trang LxManga",
-        "tag": "nsfw",
-        "type": "comic",
-        "locale": "vi_VN"
-        }]
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
