@@ -15,5 +15,18 @@
         "tag": "nsfw",
         "type": "comic",
         "locale": "vi_VN"
-    }]
+    },
+    {
+        "name": "Say Hentai",
+        "author": "vude29",
+        "path": "https://raw.githubusercontent.com/vude29/vbook/main/sayhentai/plugin.zip",
+        "version": 9,
+        "source": "https://sayhentai.one",
+        "icon": "https://raw.githubusercontent.com/vude29/vbook/main/sayhentai/icon.png",
+        "description": "Đọc truyện trên trang Sayhentai.one",
+        "type": "comic",
+        "locale": "vi_VN",
+        "tag": "nsfw"
+        }
+  ]
 }
